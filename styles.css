@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    text-align: center;
+}
+
+.city {
+    color: white;
+    background: tomato;
+    padding: 10px;
+}
